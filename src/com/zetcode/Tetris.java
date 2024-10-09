@@ -5,11 +5,6 @@ import java.awt.EventQueue;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 
-/*
-
-Author: Josh Braza
-
- */
 public class Tetris extends JFrame {
 
     /**
